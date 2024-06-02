@@ -1,3 +1,5 @@
+// Rafael Antonio Espinoza Sandoval 
+// número de carnet: 2024-1642U 
 public class EmpleadoMedioTiempo extends Empleado {
 
     private double salarioPorHora;
